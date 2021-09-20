@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<itunes:author>
+			<![CDATA[Josué Calderón Navas]]>
+		</itunes:author>
+		<copyright>&#xA9; 2021 Josué Calderón Navas</copyright>
+		<title>
+			<![CDATA[Lecturas Devocionales]]>
+		</title>
+		<link>https://www.ivoox.com/podcast-lecturas-devocionales_sq_f11361296_1.html</link>
+		<description>
+			<![CDATA[Estoy realizando lecturas devocionales de la Biblia acerca de los personajes bíblicos más destacados en orden bíblico-histórico. Acompáñame a aprender un poco más acerca de esto.]]>
+		</description>
+		<language>es-ES</language>
+		<generator>iVoox</generator>
+		<image>
+			<url>https://static-2.ivoox.com/canales/1/d/4/7/1d47a0e6805046a04a8749c478296151_XXL.jpg</url>
+			<title>
+				<![CDATA[Lecturas Devocionales]]>
+			</title>
+			<link>https://www.ivoox.com/podcast-lecturas-devocionales_sq_f11361296_1.html</link>
+		</image>
+		<atom:link href="https://www.ivoox.com/podcast-lecturas-devocionales_fg_f11361296_filtro_1.xml" rel="self" type="application/rss+xml" />
+		<itunes:image href="https://static-2.ivoox.com/canales/1/d/4/7/1d47a0e6805046a04a8749c478296151_XXL.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:type>episodic</itunes:type>
+		<itunes:category text="Religion &amp; Spirituality" />
+    <itunes:email> j.calderon@estudiantec.cr </itunes:email>
+		<item>
+			<title>
+				<![CDATA[Lectura devocional #2: Eva]]>
+			</title>
+			<link>https://www.ivoox.com/lectura-devocional-2-eva-audios-mp3_rf_75663356_1.html</link>
+			<enclosure url="https://www.ivoox.com/lectura-devocional-2-eva_mf_75663356_feed_1.mp3" type="audio/mpeg"  length="4063468"/>
+			<description>
+				<![CDATA[Eva fue primera mujer en la tierra, junto con Adán su esposo.
+Su historia nos deja una gran enseñanza que no podemos dejar pasar.
+Acompáñame a explorar la vida de este gran patriarca.]]>
+			</description>
+			<pubDate>Mon, 20 Sep 2021 06:41:50 +0200</pubDate>
+			<itunes:duration>08:27</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/75663356</guid>
+			<itunes:image href="https://static-1.ivoox.com/audios/0/0/6/8/006808f18a705bf593fbaa914913975e_XXL.jpg"/>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Lectura devocional #3: Caín]]>
+			</title>
+			<link>https://www.ivoox.com/lectura-devocional-3-cain-audios-mp3_rf_75663215_1.html</link>
+			<enclosure url="https://www.ivoox.com/lectura-devocional-3-cain_mf_75663215_feed_1.mp3" type="audio/mpeg"  length="2930380"/>
+			<description>
+				<![CDATA[Caín fue el hijo de Adán, trágicamente el primer asesino de la historia.
+Su vida nos deja una gran enseñanza que no podemos dejar pasar.
+Acompáñame a explorar la vida de este gran patriarca.]]>
+			</description>
+			<pubDate>Mon, 20 Sep 2021 06:38:07 +0200</pubDate>
+			<itunes:duration>06:06</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/75663215</guid>
+			<itunes:image href="https://static-1.ivoox.com/audios/f/8/d/a/f8dab9d12a3d86471e533b59b28163c2gg.jpg"/>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Lectura devocional #1: Adán]]>
+			</title>
+			<link>https://www.ivoox.com/lectura-devocional-1-adan-audios-mp3_rf_75662597_1.html</link>
+			<enclosure url="https://www.ivoox.com/lectura-devocional-1-adan_mf_75662597_feed_1.mp3" type="audio/mpeg"  length="3145629"/>
+			<description>
+				<![CDATA[Adán fue el hombre fundador de la raza humana.
+Su historia y trascendencia nos deja una gran enseñanza que no podemos dejar pasar.
+Acompáñame a explorar la vida de este gran patriarca.]]>
+			</description>
+			<pubDate>Mon, 20 Sep 2021 06:27:08 +0200</pubDate>
+			<itunes:duration>06:33</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/75662597</guid>
+			<itunes:image href="https://static-1.ivoox.com/audios/2/f/0/b/2f0bd0c2d56384e953cd6de2f4847c61gg.jpg"/>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Lectura devocional #4: Enoc]]>
+			</title>
+			<link>https://www.ivoox.com/lectura-devocional-4-enoc-audios-mp3_rf_75661938_1.html</link>
+			<enclosure url="https://www.ivoox.com/lectura-devocional-4-enoc_mf_75661938_feed_1.mp3" type="audio/mpeg"  length="4211843"/>
+			<description>
+				<![CDATA[Enoc fue un personaje muy singular en la Biblia, dado que fue llevado en vida al cielo.
+Su historia nos deja una gran enseñanza que no podemos dejar pasar.
+Acompáñame a explorar la vida de este gran patriarca.]]>
+			</description>
+			<pubDate>Mon, 20 Sep 2021 06:02:37 +0200</pubDate>
+			<itunes:duration>08:46</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/75661938</guid>
+			<itunes:image href="https://static-1.ivoox.com/audios/e/4/f/f/e4fffe6da3a5c74f5e392fe4703489fdgg.jpg"/>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Lectura devocional #5: Matusalén]]>
+			</title>
+			<link>https://www.ivoox.com/lectura-devocional-5-matusalen-audios-mp3_rf_75636404_1.html</link>
+			<enclosure url="https://www.ivoox.com/lectura-devocional-5-matusalen_mf_75636404_feed_1.mp3" type="audio/mpeg"  length="3530779"/>
+			<description>
+				<![CDATA[Matusalén fue el hombre que vivió más años según la Biblia (969 años).
+Su historia nos deja una gran enseñanza que no podemos dejar pasar.
+Acompáñame a explorar la vida de este gran patriarca.]]>
+			</description>
+			<pubDate>Sun, 19 Sep 2021 05:49:45 +0200</pubDate>
+			<itunes:duration>07:21</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://www.ivoox.com/75636404</guid>
+			<itunes:image href="https://static-1.ivoox.com/audios/d/1/e/c/d1ec46fe0f5709a14e800965aca0287dgg.jpg"/>
+		</item>
+	</channel>
+</rss>
