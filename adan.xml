@@ -3,6 +3,7 @@
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
+		<itunes:email> j.calderon@estudiantec.cr </itunes:email>
 		<itunes:author>
 			<![CDATA[Josué Calderón Navas]]>
 		</itunes:author>
@@ -28,7 +29,6 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:type>episodic</itunes:type>
 		<itunes:category text="Religion &amp; Spirituality" />
-    <itunes:email> j.calderon@estudiantec.cr </itunes:email>
 		<item>
 			<title>
 				<![CDATA[Lectura devocional #2: Eva]]>
